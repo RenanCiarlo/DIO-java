@@ -1,2 +1,2 @@
-# DIO-java
- Projetos/ exercicios do curso java (DIO) 
+# Exercicios-Java-POO
+ Projetos/ exercicios do curso em video 
